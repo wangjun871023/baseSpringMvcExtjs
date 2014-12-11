@@ -13,8 +13,6 @@ import org.apache.commons.lang.StringUtils;
 import org.springframework.util.Assert;
 
 import com.macrosoft.common.Convert.ConvertUtils;
-//import com.navinfo.core.MatchType;
-//import com.navinfo.core.PropertyType;
  
 
 /**
