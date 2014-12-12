@@ -142,6 +142,7 @@
 
 
 	<!-- SpringContextHandler定义 -->
+	<!-- 
 	<bean class="com.macrosoft.core.SpringContextHolder" lazy-init="false" />
-
+ 	-->
 </beans>  
