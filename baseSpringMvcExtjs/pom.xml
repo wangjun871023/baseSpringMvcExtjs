@@ -13,10 +13,10 @@
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
 	<dependencies>
-		<!-- baseSpringMVC -->
+		<!-- baseSpringMvcJar -->
 		<dependency>
-			<groupId>baseSpringMVC</groupId>
-			<artifactId>baseSpringMVC</artifactId>
+			<groupId>baseSpringMvcJar</groupId>
+			<artifactId>baseSpringMvcJar</artifactId>
 			<version>0.0.1-SNAPSHOT</version>
 		</dependency>
 	</dependencies>
