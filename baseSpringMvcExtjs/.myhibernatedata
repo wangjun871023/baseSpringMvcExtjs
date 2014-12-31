@@ -16,5 +16,5 @@ sessionFactoryId=
 basePersistenceClass=
 genAnnotations=true
 reSettingsFile=
-configFile=/baseSpringMVC/src/conf/hibernate/hibernate.cfg.xml
+configFile=/baseSpringMvcExtjs/src/conf/hibernate/hibernate.cfg.xml
 createConfigFile=true

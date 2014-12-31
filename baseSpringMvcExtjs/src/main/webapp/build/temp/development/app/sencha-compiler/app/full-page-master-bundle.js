@@ -1,2 +1,2 @@
 // @tag full-page
-// @require D:\我的文档\文档\git\baseSpringMVC\baseSpringMVC\src\main\webapp\app.js
+// @require D:\我的文档\文档\git\baseSpringMvcExtjs\baseSpringMvcExtjs\src\main\webapp\app.js
