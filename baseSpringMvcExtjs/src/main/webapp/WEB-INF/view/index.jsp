@@ -22,7 +22,6 @@ String basePath = request.getScheme()+"://"+request.getServerName()+":"+request.
   
   <body>
     Index.jsp <br>
-    <jsp:forward page="../../extjs5.0/index.html"></jsp:forward>
     <%
    		response.sendRedirect(basePath+"/extjs5.0/index.html"); 
     %>
