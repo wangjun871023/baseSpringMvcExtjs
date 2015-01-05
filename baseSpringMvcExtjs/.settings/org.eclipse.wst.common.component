@@ -8,6 +8,9 @@
         <dependent-module archiveName="baseSpringMvcJar-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/baseSpringMvcJar/baseSpringMvcJar">
             <dependency-type>uses</dependency-type>
         </dependent-module>
+        <dependent-module archiveName="baseCommonJar-0.0.1-SNAPSHOT.jar" deploy-path="/WEB-INF/lib" handle="module:/resource/baseCommonJar/baseCommonJar">
+            <dependency-type>uses</dependency-type>
+        </dependent-module>
         <property name="context-root" value="baseSpringMvcExtjs"/>
         <property name="java-output-path" value="/baseSpringMvcExtjs/target/classes"/>
     </wb-module>

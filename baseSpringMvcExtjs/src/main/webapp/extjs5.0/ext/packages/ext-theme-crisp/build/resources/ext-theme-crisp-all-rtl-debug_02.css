@@ -1,15 +1,3 @@
-/* line 386, ../../../ext-theme-base/sass/etc/mixins/frame.scss */
-.x-panel-header-light-framed-right-tl,
-.x-panel-header-light-framed-right-bl,
-.x-panel-header-light-framed-right-ml {
-  padding-left: 0;
-}
-
-/* line 390, ../../../ext-theme-base/sass/etc/mixins/frame.scss */
-.x-panel-header-light-framed-right-tc {
-  height: 4px;
-}
-
 /* line 393, ../../../ext-theme-base/sass/etc/mixins/frame.scss */
 .x-panel-header-light-framed-right-bc {
   height: 4px;

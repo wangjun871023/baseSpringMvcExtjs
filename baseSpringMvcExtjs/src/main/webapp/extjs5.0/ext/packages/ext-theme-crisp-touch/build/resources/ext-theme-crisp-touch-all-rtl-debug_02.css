@@ -1,25 +1,3 @@
-/* line 390, ../../../ext-theme-base/sass/etc/mixins/frame.scss */
-.x-panel-header-light-framed-right-tc {
-  height: 4px;
-}
-
-/* line 393, ../../../ext-theme-base/sass/etc/mixins/frame.scss */
-.x-panel-header-light-framed-right-bc {
-  height: 4px;
-}
-
-/* line 404, ../../../ext-theme-base/sass/etc/mixins/frame.scss */
-.x-panel-header-light-framed-right-tl,
-.x-panel-header-light-framed-right-bl,
-.x-panel-header-light-framed-right-tr,
-.x-panel-header-light-framed-right-br,
-.x-panel-header-light-framed-right-tc,
-.x-panel-header-light-framed-right-bc,
-.x-panel-header-light-framed-right-ml,
-.x-panel-header-light-framed-right-mr {
-  background-image: url(images/panel-header/panel-header-light-framed-right-corners.gif);
-}
-
 /* line 418, ../../../ext-theme-base/sass/etc/mixins/frame.scss */
 .x-rtl.x-panel-header-light-framed-right-tl, .x-rtl.x-panel-header-light-framed-right-ml, .x-rtl.x-panel-header-light-framed-right-bl, .x-rtl.x-panel-header-light-framed-right-tr, .x-rtl.x-panel-header-light-framed-right-mr, .x-rtl.x-panel-header-light-framed-right-br {
   background-image: url(images/panel-header/panel-header-light-framed-right-corners-rtl.gif);
